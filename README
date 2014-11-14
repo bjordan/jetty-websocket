@@ -1,0 +1,1 @@
+JSR 356 Websocket implementation using embedded Jetty, Spring integration and a custom on the wire protocol.
