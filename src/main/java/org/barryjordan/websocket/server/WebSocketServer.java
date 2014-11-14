@@ -1,6 +1,6 @@
-package biz.rightshift.websocket.server;
+package org.barryjordan.websocket.server;
 
-import biz.rightshift.websocket.server.config.ContextConfig;
+import org.barryjordan.websocket.server.config.ContextConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**

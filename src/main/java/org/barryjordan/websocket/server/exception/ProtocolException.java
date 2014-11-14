@@ -1,4 +1,4 @@
-package biz.rightshift.websocket.server.exception;
+package org.barryjordan.websocket.server.exception;
 
 /**
  * Base exception for request dispatching issues.

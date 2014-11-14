@@ -1,14 +1,14 @@
-package biz.rightshift.websocket.server.endpoint;
+package org.barryjordan.websocket.server.endpoint;
 
-import biz.rightshift.websocket.server.connection.ConnectionManager;
-import biz.rightshift.websocket.server.encoder.ProtocolPushEncoder;
-import biz.rightshift.websocket.server.encoder.ProtocolRequestDecoder;
-import biz.rightshift.websocket.server.encoder.ProtocolResponseEncoder;
-import biz.rightshift.websocket.server.exception.InternalServerErrorCodes;
-import biz.rightshift.websocket.server.exception.ProtocolException;
-import biz.rightshift.websocket.server.protocol.ProtocolRequest;
-import biz.rightshift.websocket.server.protocol.ProtocolResponse;
-import biz.rightshift.websocket.server.protocol.ProtocolResponseStatus;
+import org.barryjordan.websocket.server.connection.ConnectionManager;
+import org.barryjordan.websocket.server.encoder.ProtocolPushEncoder;
+import org.barryjordan.websocket.server.encoder.ProtocolRequestDecoder;
+import org.barryjordan.websocket.server.encoder.ProtocolResponseEncoder;
+import org.barryjordan.websocket.server.exception.InternalServerErrorCodes;
+import org.barryjordan.websocket.server.exception.ProtocolException;
+import org.barryjordan.websocket.server.protocol.ProtocolRequest;
+import org.barryjordan.websocket.server.protocol.ProtocolResponse;
+import org.barryjordan.websocket.server.protocol.ProtocolResponseStatus;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

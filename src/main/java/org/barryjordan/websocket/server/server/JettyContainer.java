@@ -1,4 +1,4 @@
-package biz.rightshift.websocket.server.server;
+package org.barryjordan.websocket.server.server;
 
 import org.eclipse.jetty.server.HttpConfiguration;
 import org.eclipse.jetty.server.HttpConnectionFactory;

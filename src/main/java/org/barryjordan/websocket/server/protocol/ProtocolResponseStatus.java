@@ -1,4 +1,4 @@
-package biz.rightshift.websocket.server.protocol;
+package org.barryjordan.websocket.server.protocol;
 
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import org.apache.commons.lang3.builder.EqualsBuilder;

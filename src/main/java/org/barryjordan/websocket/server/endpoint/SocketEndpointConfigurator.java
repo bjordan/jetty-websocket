@@ -1,4 +1,4 @@
-package biz.rightshift.websocket.server.endpoint;
+package org.barryjordan.websocket.server.endpoint;
 
 import javax.websocket.HandshakeResponse;
 import javax.websocket.server.HandshakeRequest;

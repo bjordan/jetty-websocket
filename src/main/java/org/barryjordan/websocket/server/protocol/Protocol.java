@@ -1,4 +1,4 @@
-package biz.rightshift.websocket.server.protocol;
+package org.barryjordan.websocket.server.protocol;
 
 import java.util.HashMap;
 import java.util.Map;

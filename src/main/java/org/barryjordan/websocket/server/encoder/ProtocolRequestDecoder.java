@@ -1,7 +1,7 @@
-package biz.rightshift.websocket.server.encoder;
+package org.barryjordan.websocket.server.encoder;
 
-import biz.rightshift.websocket.server.exception.ProtocolException;
-import biz.rightshift.websocket.server.protocol.ProtocolRequest;
+import org.barryjordan.websocket.server.exception.ProtocolException;
+import org.barryjordan.websocket.server.protocol.ProtocolRequest;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import javax.websocket.DecodeException;

@@ -1,9 +1,9 @@
-package biz.rightshift.websocket.server.config;
+package org.barryjordan.websocket.server.config;
 
-import biz.rightshift.websocket.server.connection.ConnectionManager;
-import biz.rightshift.websocket.server.endpoint.WebSocketEndPoint;
-import biz.rightshift.websocket.server.endpoint.SocketEndpointConfigurator;
-import biz.rightshift.websocket.server.server.JettyContainer;
+import org.barryjordan.websocket.server.connection.ConnectionManager;
+import org.barryjordan.websocket.server.endpoint.WebSocketEndPoint;
+import org.barryjordan.websocket.server.endpoint.SocketEndpointConfigurator;
+import org.barryjordan.websocket.server.server.JettyContainer;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

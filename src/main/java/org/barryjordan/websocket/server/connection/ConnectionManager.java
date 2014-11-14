@@ -1,4 +1,4 @@
-package biz.rightshift.websocket.server.connection;
+package org.barryjordan.websocket.server.connection;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
